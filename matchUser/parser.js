@@ -19,6 +19,7 @@ const getInfoUser = (data) => {
     age: userData.age,
     gender: userData.gender,
     
+    profile_photo: userData.profile_photo.large_url,
     photos: userData.albums[0].photos.map((photo, index) => {
       return {
         order: index + 1,

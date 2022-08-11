@@ -11,6 +11,7 @@ const parseData = (data) => {
     age: user.age,
     gender: user.gender,
 
+    profilePhoto: null,
     photos: user.albums[0].photos.map((photo, index) => {
       return { order: index+1, url: photo.large_url };
     }),
