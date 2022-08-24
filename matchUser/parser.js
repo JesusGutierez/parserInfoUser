@@ -1,9 +1,9 @@
 const data = require('./user.json');
 
 const getInfoUser = (data) => {
-  const userData = data.body[0].user;
+  const userData = data?.body[0]?.user;
   const getField = (fieldsArray, fieldName) =>
-    fieldsArray.find((field) => field.id == fieldName);
+    fieldsArray?.find((field) => field.id == fieldName);
   const hometown = userData.hometown;
   const residence = userData.residence;
 

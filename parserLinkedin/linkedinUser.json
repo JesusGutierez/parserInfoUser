@@ -1,0 +1,74 @@
+{
+  "name": "Kevin Mike Herrera Vega",
+  "experiences": [
+    {
+      "title": "Software Engineer",
+      "enterprise": "Pluralsight · Contract",
+      "startDate": "2021-08-01T05:00:00.000Z",
+      "endDate": null
+    },
+    {
+      "title": "Senior Software Engineer",
+      "enterprise": "BairesDev",
+      "startDate": "2021-06-01T05:00:00.000Z",
+      "endDate": "2021-09-01T05:00:00.000Z"
+    },
+    {
+      "title": "Software Engineer",
+      "enterprise": "Nabors Industries",
+      "startDate": "2020-05-01T05:00:00.000Z",
+      "endDate": "2021-06-01T05:00:00.000Z"
+    },
+    {
+      "title": "Software Engineer III",
+      "enterprise": "WebCreek",
+      "startDate": "2020-03-01T05:00:00.000Z",
+      "endDate": "2021-06-01T05:00:00.000Z"
+    },
+    null
+  ],
+  "educations": [
+    {
+      "title": "Universidad Nacional Jorge Basadre Grohmann",
+      "enterprise": "Bachelor's degree, Ingeniería en Informática y Sistemas",
+      "startDate": "2012-01-01T05:00:00.000Z",
+      "endDate": "2016-01-01T05:00:00.000Z"
+    }
+  ],
+  "contactInfo": {
+    "birthDateOn": {
+      "month": 8,
+      "day": 22,
+      "$type": "com.linkedin.common.Date"
+    },
+    "birthdayVisibilitySetting": null,
+    "address": null,
+    "weChatContactInfo": null,
+    "primaryTwitterHandle": null,
+    "twitterHandles": [
+      {
+        "name": "Kevinmike94",
+        "credentialId": "urn:li:member:343623207;310125736",
+        "$type": "com.linkedin.voyager.identity.shared.TwitterHandle"
+      }
+    ],
+    "phoneNumbers": null,
+    "ims": null,
+    "$type": "com.linkedin.voyager.identity.profile.ProfileContactInfo",
+    "emailAddress": null,
+    "entityUrn": "urn:li:fs_contactinfo:ACoAABR7RicBwsOE6D1Lle0zJtZqI8DUOP1Xf0s",
+    "connectedAt": null,
+    "websites": [
+      {
+        "type": {
+          "category": "PORTFOLIO",
+          "$type": "com.linkedin.voyager.identity.profile.StandardWebsite"
+        },
+        "url": "https://github.com/KevinMike",
+        "$type": "com.linkedin.voyager.identity.profile.ProfileWebsite"
+      }
+    ],
+    "sesameCreditGradeInfo": null,
+    "interests": null
+  }
+}
